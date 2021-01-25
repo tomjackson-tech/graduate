@@ -9,3 +9,4 @@ This repositiory will be constantly updated.
   function2.py -> An algorithm to process the reconciliation
   Data -> A file folder consist of input data
   TestOutput -> A file folder to store the finished file
+  Process Master Summary.xlsx -> A process report generated automatically when the reconciliation is done 
