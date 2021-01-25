@@ -1,0 +1,11 @@
+This repositiory consist of my prior work as an intern in several places and some of my side projects; 
+This repositiory is for purpose of the application of my graduate education only;
+This repositiory will be constantly updated.
+
+1. Bank Reconciliation Program: A small demo of my work in BNP Paribas Cardif; Only partial of the data is included.
+  config.xlsx -> A excel to flexibly customize the input parameters and format for the process.
+  main.py -> The main python file
+  function1.py -> 2 objects used to read, format, and export the data of every accounts
+  function2.py -> An algorithm to process the reconciliation
+  Data -> A file folder consist of input data
+  TestOutput -> A file folder to store the finished file
